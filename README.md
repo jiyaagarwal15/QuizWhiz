@@ -7,3 +7,7 @@ This is my first project built while learning Python.
 - Attempt at least 5 questions
 - Score tracking 
 - Fun reactions 
+## Future Improvements
+- Add more questions
+- Add difficulty levels
+- Convert to GUI version
